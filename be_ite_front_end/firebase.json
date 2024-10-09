@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "ite-lms",
+                    "appId": "1:805013520783:android:5c23fe38c8d23eddc24bfa",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "ite-lms",
+                    "configurations": {
+                        "android": "1:805013520783:android:5c23fe38c8d23eddc24bfa"
+                    }
+                }
+            }
+        }
+    }
+}
